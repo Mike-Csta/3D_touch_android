@@ -26,3 +26,16 @@ Aby uruchomić projekt lokalnie, wykonaj poniższe kroki:
 2. Upewnij się, że masz zainstalowane środowisko React Native Expo. Jeśli nie, postępuj zgodnie z oficjalną dokumentacją React Native Expo, aby je zainstalować.
 3. Przejdź do katalogu projektu i zainstaluj zależności, wykonując polecenie `npm install` lub `yarn install`.
 4. Uruchom aplikacje za pomocą aplikacji expo go - zeskanuj nią kod qr
+
+
+
+| Obraz 1                                                      | Obraz 2                                                      |
+|--------------------------------------------------------------|--------------------------------------------------------------|
+| ![[Opis obrazu 1](https://link.do/obrazu1.jpg)      ](https://github.com/Mike-Csta/3D_touch_android/assets/92047998/80081c48-a057-4acf-9cca-cd47dee566f5
+)           | [![Opis obrazu 2](https://link.do/obrazu2.jpg)     ](https://github.com/Mike-Csta/3D_touch_android/assets/92047998/615e7e94-4cba-48f4-8fc7-65ff0d0a7d59)https://github.com/Mike-Csta/3D_touch_android/assets/92047998/615e7e94-4cba-48f4-8fc7-65ff0d0a7d59            |
+
+
+
+
+
+

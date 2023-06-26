@@ -29,9 +29,10 @@ Aby uruchomić projekt lokalnie, wykonaj poniższe kroki:
 
 
 
-| Obraz 1                                                                               | Obraz 2                                                                               |
-|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| https://github.com/Mike-Csta/3D_touch_android/blob/master/assets/92047998/80081c48-a057-4acf-9cca-cd47dee566f5.jpg | https://github.com/Mike-Csta/3D_touch_android/blob/master/assets/92047998/615e7e94-4cba-48f4-8fc7-65ff0d0a7d59.jpg |
+ https://github.com/Mike-Csta/3D_touch_android/blob/master/assets/92047998/80081c48-a057-4acf-9cca-cd47dee566f5.jpg
+ 
+ 
+ https://github.com/Mike-Csta/3D_touch_android/blob/master/assets/92047998/615e7e94-4cba-48f4-8fc7-65ff0d0a7d59.jpg 
 
 
 

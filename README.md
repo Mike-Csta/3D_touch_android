@@ -8,6 +8,10 @@ Celem eksperymentu jest stworzenie sposobu pomiaru siły nacisku na ekran na ka�
 
 Waga - Główną funkcją tej aplikacji jest symulacja siły nacisku na podstawie pomiarów ciśnienia w telefonie podczas nawet lekkiego nacisku na ekran. Jeśli urządzenie jest wodoszczelne i jest w stanie wykrywać zmiany ciśnienia, można to wykorzystać do przekładania na siłę nacisku w aplikacji. Oczywiście, ta waga jest eksperymentalna i nie gwarantuje dokładnych wyników, ale stanowi fascynujący projekt badawczy.
 
+### Technologia
+
+Ze względu na wygode w fazie eksperymentów stosuje react native, docelowo byłaby to java.
+
 ### Zastosowanie
 
 Waga Telefonu może mieć wiele potencjalnych zastosowań w dziedzinie tworzenia aplikacji mobilnych, zwłaszcza gier. Oto kilka pomysłów, jak można by wykorzystać tę technologię:
